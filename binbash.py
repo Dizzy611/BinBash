@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 # BinBash, IRC quote bot.
 # BinBash is Copyright 2010 Dylan Morrison
 #
