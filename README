@@ -21,3 +21,6 @@ Commands:
 !foobash n - n is a line number. If n is specified, show the nth line from foo.txt, if it is not specified, show a random line from foo.txt
 !addquote foo This is a quote - Add the line "This is a quote" to the end of foo.txt, creating foo.txt if necessary.
 
+
+If you like this, check out http://github.com/Insidious611/BinBashCord,
+a version of this script rewritten seven years later for Discord.
