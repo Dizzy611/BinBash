@@ -1,9 +1,11 @@
+# BinBash
+
 BinBash is an IRC quote bot specializing in seperate textual quote files 
-for different purposes. In its original incarnation on irc.slashnet.org 
-#mzx, it replaced !<nick>bash scripts that were used to chronicle funny 
+for different purposes. In its original incarnation on *irc.slashnet.org*
+channel *#mzx*, it replaced !<nick>bash scripts that were used to chronicle funny 
 quotes from mostly former community members.
 
-Usage:
+## Usage:
 
 Edit the binbash.py script, putting in the server, nickname, channel, 
 etc that your bot will use. Place text files containing quotes in the 
@@ -15,7 +17,7 @@ you need.
 
 Enjoy.
 
-Commands:
+## Commands:
 
 !bashes - Shows a listing of files in the bashes/ folder
 !foobash n - n is a line number. If n is specified, show the nth line from foo.txt, if it is not specified, show a random line from foo.txt
